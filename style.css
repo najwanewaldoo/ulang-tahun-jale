@@ -2665,7 +2665,7 @@ button:hover {
   #ui {
     transform: scale(50%);
     position: absolute;
-    top: 1130px;
+    top: 1200px;
     left: 45%;
   }
 }
