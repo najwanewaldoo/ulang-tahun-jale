@@ -2611,8 +2611,8 @@ button:hover {
 /* Media Query */
 /* Laptop */
 @media (max-width: 992px) {
-  video {
-    width: 35%;
+  iframe {
+    width: 45%;
     transform: translateX(-50%) translateY(20px);
   }
   .textvid {
@@ -2631,8 +2631,9 @@ button:hover {
 
 /* Tablet */
 @media (max-width: 768px) {
-  video {
-    width: 40%;
+ iframe {
+    width: 35%;
+    height: 20%;
     transform: translateX(-50%) translateY(28px);
   }
   .textvid {
@@ -2650,8 +2651,9 @@ button:hover {
 }
 /* Mobile */
 @media (max-width: 576px) {
-  video {
-    width: 55%;
+  iframe {
+    width: 50%;
+    height: 20%;
     transform: translateX(-50%) translateY(20px);
   }
   .textvid {
