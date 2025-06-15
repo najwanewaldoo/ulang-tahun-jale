@@ -876,6 +876,7 @@ iframe {
 
 .hal5 {
   background-image: url(img/bghal4.jpg);
+  background-size: cover;
   min-height: 100vh;
   padding-top: 10rem;
   padding-bottom: 5rem;
