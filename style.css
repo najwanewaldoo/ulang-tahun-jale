@@ -877,7 +877,7 @@ iframe {
 .hal5 {
   background-image: url(img/bghal4.jpg);
   background-size: cover;
-  min-height: 100vh;
+  min-height: 120vh;
   padding-top: 10rem;
   padding-bottom: 5rem;
 }
@@ -2621,7 +2621,7 @@ button:hover {
   html {
     font-size: 85%;
   }
-  #ui {
+  .hal4 #ui {
     transform: scale(85%);
     position: absolute;
     top: 650px;
@@ -2642,7 +2642,7 @@ button:hover {
   html {
     font-size: 75%;
   }
-  #ui {
+  .hal4 #ui {
     transform: scale(55%);
     position: absolute;
     top: 1000px;
@@ -2662,10 +2662,10 @@ button:hover {
   html {
     font-size: 65%;
   }
-  #ui {
+  .hal4 #ui {
     transform: scale(50%);
     position: absolute;
-    top: 1120px;
+    top: 1150px;
     left: 45%;
   }
 }
